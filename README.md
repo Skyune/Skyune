@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?Username=Skyune)
-
+![](https://komarev.com/ghpvc/?username=Skyune)
 <!--
 **Skyune/Skyune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
